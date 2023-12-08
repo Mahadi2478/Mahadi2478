@@ -1,16 +1,14 @@
-### Hi there 👋
+# 💫 About Me:
+Hello, I'm Md. Rezwanur Rahman<br>BSc in EEE from RUET, Bangladesh<br>C++ is my go to language to solve coding problem<br>Highly interested in hardware programming<br>Currently learning about the amazing mathematics behind deep learning algorithms. <br><br>Looking for PhD position for upcoming Fall 24<br>Research interest: VLSI design, Neuromorphic computing, Analog & mixed signal IC design, Cyber Physical system                                                                                  <br><br><br><br><br><br>
 
-<!--
-**Mahadi2478/Mahadi2478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahadi.mohammad.549/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rezwanur-rahman-76b438177/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mahadi2478&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
