@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Md. Rezwanur Rahman<br>BSc in EEE from RUET, Bangladesh<br>C++ is my go to language to solve coding problem<br>Highly interested in hardware programming<br>Currently learning about the amazing mathematics behind deep learning algorithms. <br><br>Looking for PhD position for upcoming Fall 24<br>Research interest: VLSI design, Neuromorphic computing, Analog & mixed signal IC design, Cyber Physical system                                                                                  <br><br><br><br><br><br>
+Hello, I'm Md. Rezwanur Rahman<br>BSc in EEE from RUET, Bangladesh<br>C++ is my go to language to solve coding problem<br>Highly interested in hardware programming<br>Currently learning about the amazing mathematics behind deep learning algorithms. <br><br>Looking for PhD position for upcoming Fall 24<br>Research interest: VLSI design, Neuromorphic computing, Analog & mixed signal IC design, Cyber Physical system                                                                                  <br><br><br><br>
 
 
 ## 🌐 Socials:
@@ -7,6 +7,7 @@ Hello, I'm Md. Rezwanur Rahman<br>BSc in EEE from RUET, Bangladesh<br>C++ is my 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Mahadi2478&icon=0&color=0)](https://visitcount.itsvg.in)
