@@ -1,4 +1,4 @@
-# 💫 Hello, This is Md. Rezwanur Rahman:
+# 💫 Hello, I'm Md. Rezwanur Rahman:
 BSc in EEE from Rajshahi University of Engineering & Technology, Bangladesh<br>C++ is my go to language to solve DSA problems<br>Highly interested in hardware programming<br>Currently learning about the amazing mathematics behind deep learning algorithms.<br><br><br>Looking for PhD position for upcoming Fall 24<br>Research interest: VLSI design, Neuromorphic computing, Analog & mixed signal IC design, Cyber Physical system  <br><br><br>
 
 # 💻 Tech Stack:
